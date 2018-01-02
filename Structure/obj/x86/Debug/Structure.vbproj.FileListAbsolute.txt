@@ -1,0 +1,52 @@
+C:\Test\Structure\Structure\bin\Debug\Structure.exe
+C:\Test\Structure\Structure\bin\Debug\Structure.pdb
+C:\Test\Structure\Structure\bin\Debug\Structure.xml
+C:\Test\Structure\Structure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test\Structure\Structure\obj\x86\Debug\Structure.Form1.resources
+C:\Test\Structure\Structure\obj\x86\Debug\Structure.Resources.resources
+C:\Test\Structure\Structure\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Test\Structure\Structure\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Test\Structure\Structure\obj\x86\Debug\Structure.exe
+C:\Test\Structure\Structure\obj\x86\Debug\Structure.xml
+C:\Test\Structure\Structure\obj\x86\Debug\Structure.pdb
+C:\Users\Ray\Desktop\Structure\Structure\obj\x86\Debug\Structure.exe
+C:\Users\Ray\Desktop\Structure\Structure\obj\x86\Debug\Structure.xml
+C:\Users\Ray\Desktop\Structure\Structure\obj\x86\Debug\Structure.pdb
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.exe
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.xml
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.pdb
+C:\Users\raymond.harmon\Desktop\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\raymond.harmon\Desktop\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\raymond.harmon\Desktop\Structure\Structure\bin\Debug\Structure.xml
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.Resources.resources
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.vbproj.GenerateResource.Cache
+Z:\Structure\Structure\obj\x86\Debug\Structure.exe
+Z:\Structure\Structure\obj\x86\Debug\Structure.xml
+Z:\Structure\Structure\obj\x86\Debug\Structure.pdb
+Z:\Structure\Structure\bin\Debug\Structure.exe
+Z:\Structure\Structure\bin\Debug\Structure.pdb
+Z:\Structure\Structure\bin\Debug\Structure.xml
+Z:\Structure\Structure\obj\x86\Debug\Structure.Resources.resources
+Z:\Structure\Structure\obj\x86\Debug\Structure.vbproj.GenerateResource.Cache
+Z:\Structure\Structure\obj\x86\Debug\Structure.frmStructures.resources
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.exe
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.xml
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.pdb
+C:\Users\Ray\Desktop\BZips\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\Ray\Desktop\BZips\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\Ray\Desktop\BZips\Structure\Structure\bin\Debug\Structure.xml
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.frmStructures.resources
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.Resources.resources
+C:\Users\Ray\Desktop\BZips\Structure\Structure\obj\x86\Debug\Structure.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\Desktop\Structure\Structure\obj\x86\Debug\Structure.frmStructures.resources
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\bin\Debug\Structure.exe
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\bin\Debug\Structure.pdb
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\bin\Debug\Structure.xml
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.frmStructures.resources
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.Resources.resources
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.exe
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.xml
+A:\Cincinnati State\.NET programming\Week Ten\Structure\Structure\obj\x86\Debug\Structure.pdb
